@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 250%;
+}
+.color {
+color: rgb(41, 182, 52);
+}
+.container {
+    height: 50%;
+    width: 100%;
+    padding: 10px 30px;
+}
+.container img{
+
+    width: 50%;
+    
+}
+section {
+    display: flex;
+}
+.box {
+    
+    background-color: rgb(224, 164, 85);
+    border-radius: 9%;
+    Background-image: linear-gradient();
+    height: 100%;
+    padding: 8px 8px;
+    text-decoration: none;
+}
